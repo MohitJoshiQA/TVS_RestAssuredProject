@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All_Test_Suite">
+    <listeners>
+        <listener class-name="configuration.Listeners"/>
+    </listeners>
+
+    <test name="PROD_U546PrimaryUser">
+        <parameter name="instance" value="PROD_URL" />
+        <parameter name="RoleId" value="PROD_Service_role"></parameter>
+        <parameter name="Vin" value="PROD_U546_VIN"></parameter>
+        <parameter name="UserId" value="PROD_appuserid"></parameter>
+        <parameter name="DeviceId" value="PROD_Device_Id"></parameter>
+        <parameter name="Token" value="PROD_U546_Primary" />
+        <packages>
+            <package name="U546" />
+        </packages>
+    </test>
+
+</suite>

@@ -1,0 +1,27 @@
+{
+  "uuid": "d61a880e-48b9-4417-a8db-bcbd3bf8a8b7",
+  "historyId": "f96aaaa99ae67b322300baf276c7c88",
+  "fullName": "simulation.U702_DEV.main",
+  "labels": [
+    { "name": "package", "value": "simulation.U702_DEV" },
+    { "name": "testClass", "value": "simulation.U702_DEV" },
+    { "name": "testMethod", "value": "main" },
+    { "name": "parentSuite", "value": "Default Suite" },
+    { "name": "suite", "value": "TVSM_Automation" },
+    { "name": "subSuite", "value": "simulation.U702_DEV" },
+    { "name": "host", "value": "tharanesh-ThinkPad-T490" },
+    { "name": "thread", "value": "51225@tharanesh-ThinkPad-T490.main(1)" },
+    { "name": "framework", "value": "testng" },
+    { "name": "language", "value": "java" }
+  ],
+  "links": [],
+  "name": "main",
+  "status": "passed",
+  "statusDetails": { "known": false, "muted": false, "flaky": false },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1738046708313,
+  "stop": 1738046708388
+}

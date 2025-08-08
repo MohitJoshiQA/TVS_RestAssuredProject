@@ -1,0 +1,27 @@
+{
+  "uuid": "e06482a8-7d60-4a78-ad2d-433a013236ed",
+  "historyId": "cfae48fb7157c0062f0d8888c6bdeb9a",
+  "fullName": "simulation.U388_PROD.U388_PROD",
+  "labels": [
+    { "name": "package", "value": "simulation.U388_PROD" },
+    { "name": "testClass", "value": "simulation.U388_PROD" },
+    { "name": "testMethod", "value": "U388_PROD" },
+    { "name": "parentSuite", "value": "Default Suite" },
+    { "name": "suite", "value": "p360_b2c_automation_testing" },
+    { "name": "subSuite", "value": "simulation.U388_PROD" },
+    { "name": "host", "value": "meghana-Latitude-7490" },
+    { "name": "thread", "value": "16896@meghana-Latitude-7490.main(1)" },
+    { "name": "framework", "value": "testng" },
+    { "name": "language", "value": "java" }
+  ],
+  "links": [],
+  "name": "U388_PROD",
+  "status": "passed",
+  "statusDetails": { "known": false, "muted": false, "flaky": false },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1741867270219,
+  "stop": 1741867317014
+}

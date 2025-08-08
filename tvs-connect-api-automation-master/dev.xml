@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All_Test_Suite">
+    <listeners>
+        <listener class-name="configuration.Listeners"/>
+    </listeners>
+
+    <test name="generic">
+        <parameter name="instance" value="DEV_URL" />
+        <parameter name="RoleId" value="DEV_Service_role"></parameter>
+        <parameter name="Vin" value="Dev_Generic_Vin"></parameter>
+        <parameter name="UserId" value="DEV_appuserid"></parameter>
+        <parameter name="DeviceId" value="DEV_Device_Id"></parameter>
+        <parameter name="Token" value="GenericToken" />
+        <packages>
+            <package name="generic" />
+        </packages>
+    </test>
+
+<!--    <test name="DEV_U546PrimaryUser">-->
+<!--        <parameter name="instance" value="DEV_URL" />-->
+<!--        <parameter name="RoleId" value="DEV_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="DEV_U546_VIN"></parameter>-->
+<!--        <parameter name="UserId" value="DEV_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="DEV_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="DEV_U546_Primary" />-->
+<!--        <packages>-->
+<!--            <package name="U546" />-->
+<!--        </packages>-->
+<!--    </test>-->
+</suite>

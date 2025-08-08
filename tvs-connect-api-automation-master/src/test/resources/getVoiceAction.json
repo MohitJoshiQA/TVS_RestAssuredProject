@@ -1,0 +1,2967 @@
+{
+  "StatusCode": 200,
+  "Message": "Field list",
+  "Result": "Success",
+  "Data": {
+    "VoiceActions": [
+      {
+        "VoiceActionId": 1572,
+        "Action": null,
+        "Intent": "GREETING",
+        "VoiceFeedback": "Hello %s",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "HELLO",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10931,
+            "VoiceActionId": 1572,
+            "Command": "Hey ntorq"
+          },
+          {
+            "VoiceCommandId": 10932,
+            "VoiceActionId": 1572,
+            "Command": "Hey can talk"
+          },
+          {
+            "VoiceCommandId": 10933,
+            "VoiceActionId": 1572,
+            "Command": "hey ntock"
+          },
+          {
+            "VoiceCommandId": 10934,
+            "VoiceActionId": 1572,
+            "Command": "hey friend torc"
+          },
+          {
+            "VoiceCommandId": 10935,
+            "VoiceActionId": 1572,
+            "Command": "hey in tock"
+          },
+          {
+            "VoiceCommandId": 10936,
+            "VoiceActionId": 1572,
+            "Command": "He entered"
+          },
+          {
+            "VoiceCommandId": 10937,
+            "VoiceActionId": 1572,
+            "Command": "Hi torq"
+          },
+          {
+            "VoiceCommandId": 10938,
+            "VoiceActionId": 1572,
+            "Command": "hi talk"
+          },
+          {
+            "VoiceCommandId": 10939,
+            "VoiceActionId": 1572,
+            "Command": "hyde park"
+          },
+          {
+            "VoiceCommandId": 10940,
+            "VoiceActionId": 1572,
+            "Command": "high torque"
+          },
+          {
+            "VoiceCommandId": 10941,
+            "VoiceActionId": 1572,
+            "Command": "Hi buddie"
+          },
+          {
+            "VoiceCommandId": 10942,
+            "VoiceActionId": 1572,
+            "Command": "hello torq"
+          },
+          {
+            "VoiceCommandId": 10943,
+            "VoiceActionId": 1572,
+            "Command": "Hello Talk"
+          },
+          {
+            "VoiceCommandId": 10944,
+            "VoiceActionId": 1572,
+            "Command": "Hello torque"
+          },
+          {
+            "VoiceCommandId": 10945,
+            "VoiceActionId": 1572,
+            "Command": "how are you doing"
+          },
+          {
+            "VoiceCommandId": 10946,
+            "VoiceActionId": 1572,
+            "Command": "Hey watsup"
+          },
+          {
+            "VoiceCommandId": 10947,
+            "VoiceActionId": 1572,
+            "Command": "hey what's up"
+          },
+          {
+            "VoiceCommandId": 10948,
+            "VoiceActionId": 1572,
+            "Command": "Hi buddy"
+          },
+          {
+            "VoiceCommandId": 10949,
+            "VoiceActionId": 1572,
+            "Command": "Hey buddy"
+          },
+          {
+            "VoiceCommandId": 10950,
+            "VoiceActionId": 1572,
+            "Command": "hello friend"
+          },
+          {
+            "VoiceCommandId": 10951,
+            "VoiceActionId": 1572,
+            "Command": "Hey T"
+          },
+          {
+            "VoiceCommandId": 10952,
+            "VoiceActionId": 1572,
+            "Command": "Hay"
+          },
+          {
+            "VoiceCommandId": 10953,
+            "VoiceActionId": 1572,
+            "Command": "hay ti"
+          },
+          {
+            "VoiceCommandId": 10954,
+            "VoiceActionId": 1572,
+            "Command": "hi tea"
+          },
+          {
+            "VoiceCommandId": 10955,
+            "VoiceActionId": 1572,
+            "Command": "how u doing"
+          },
+          {
+            "VoiceCommandId": 11225,
+            "VoiceActionId": 1572,
+            "Command": "buddy"
+          },
+          {
+            "VoiceCommandId": 11226,
+            "VoiceActionId": 1572,
+            "Command": "hello"
+          },
+          {
+            "VoiceCommandId": 11227,
+            "VoiceActionId": 1572,
+            "Command": "Tubidy"
+          },
+          {
+            "VoiceCommandId": 11228,
+            "VoiceActionId": 1572,
+            "Command": "hey"
+          },
+          {
+            "VoiceCommandId": 11229,
+            "VoiceActionId": 1572,
+            "Command": "yeah buddy"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1573,
+        "Action": null,
+        "Intent": "NAVIGATION",
+        "VoiceFeedback": "Taking you to %s",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10956,
+            "VoiceActionId": 1573,
+            "Command": "Go to"
+          },
+          {
+            "VoiceCommandId": 10957,
+            "VoiceActionId": 1573,
+            "Command": "Take me to"
+          },
+          {
+            "VoiceCommandId": 10958,
+            "VoiceActionId": 1573,
+            "Command": "Let's go to"
+          },
+          {
+            "VoiceCommandId": 10959,
+            "VoiceActionId": 1573,
+            "Command": "Navigate to"
+          },
+          {
+            "VoiceCommandId": 10960,
+            "VoiceActionId": 1573,
+            "Command": "Navigate me to"
+          },
+          {
+            "VoiceCommandId": 10961,
+            "VoiceActionId": 1573,
+            "Command": "Guide me to"
+          },
+          {
+            "VoiceCommandId": 10962,
+            "VoiceActionId": 1573,
+            "Command": "Show me"
+          },
+          {
+            "VoiceCommandId": 10963,
+            "VoiceActionId": 1573,
+            "Command": "Take to"
+          },
+          {
+            "VoiceCommandId": 10964,
+            "VoiceActionId": 1573,
+            "Command": "take two"
+          },
+          {
+            "VoiceCommandId": 10965,
+            "VoiceActionId": 1573,
+            "Command": "Thanks to"
+          },
+          {
+            "VoiceCommandId": 10966,
+            "VoiceActionId": 1573,
+            "Command": "Directions to"
+          },
+          {
+            "VoiceCommandId": 10967,
+            "VoiceActionId": 1573,
+            "Command": "Show me Directions to"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1574,
+        "Action": null,
+        "Intent": "MODE_RACE",
+        "VoiceFeedback": "Race Mode Activated",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": " RACE MODE",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10972,
+            "VoiceActionId": 1574,
+            "Command": "Race Mode"
+          },
+          {
+            "VoiceCommandId": 10973,
+            "VoiceActionId": 1574,
+            "Command": "Go race torq"
+          },
+          {
+            "VoiceCommandId": 10974,
+            "VoiceActionId": 1574,
+            "Command": "Go race talk"
+          },
+          {
+            "VoiceCommandId": 10975,
+            "VoiceActionId": 1574,
+            "Command": "Go to Race Mode"
+          },
+          {
+            "VoiceCommandId": 10976,
+            "VoiceActionId": 1574,
+            "Command": "go race ntorq"
+          },
+          {
+            "VoiceCommandId": 10977,
+            "VoiceActionId": 1574,
+            "Command": "Switch to Race"
+          },
+          {
+            "VoiceCommandId": 10978,
+            "VoiceActionId": 1574,
+            "Command": "lets race"
+          },
+          {
+            "VoiceCommandId": 10979,
+            "VoiceActionId": 1574,
+            "Command": "let's race"
+          },
+          {
+            "VoiceCommandId": 10980,
+            "VoiceActionId": 1574,
+            "Command": "hello torq go to race mode"
+          },
+          {
+            "VoiceCommandId": 10981,
+            "VoiceActionId": 1574,
+            "Command": "Hello talk go to race mod"
+          },
+          {
+            "VoiceCommandId": 10982,
+            "VoiceActionId": 1574,
+            "Command": "hello torq"
+          },
+          {
+            "VoiceCommandId": 10983,
+            "VoiceActionId": 1574,
+            "Command": "Hello Talk"
+          },
+          {
+            "VoiceCommandId": 10984,
+            "VoiceActionId": 1574,
+            "Command": "Get racy"
+          },
+          {
+            "VoiceCommandId": 10985,
+            "VoiceActionId": 1574,
+            "Command": "Get receipe"
+          },
+          {
+            "VoiceCommandId": 10986,
+            "VoiceActionId": 1574,
+            "Command": "Great Wrestling"
+          },
+          {
+            "VoiceCommandId": 10987,
+            "VoiceActionId": 1574,
+            "Command": "Get racing"
+          },
+          {
+            "VoiceCommandId": 10988,
+            "VoiceActionId": 1574,
+            "Command": "Get ready"
+          },
+          {
+            "VoiceCommandId": 10989,
+            "VoiceActionId": 1574,
+            "Command": "get ready man"
+          },
+          {
+            "VoiceCommandId": 10990,
+            "VoiceActionId": 1574,
+            "Command": "it's race time"
+          },
+          {
+            "VoiceCommandId": 10991,
+            "VoiceActionId": 1574,
+            "Command": "let's heat up the engine"
+          },
+          {
+            "VoiceCommandId": 10992,
+            "VoiceActionId": 1574,
+            "Command": "let's meet up the Indian"
+          },
+          {
+            "VoiceCommandId": 10993,
+            "VoiceActionId": 1574,
+            "Command": "let's hit of the engine"
+          },
+          {
+            "VoiceCommandId": 10994,
+            "VoiceActionId": 1574,
+            "Command": "let's play part of the engine"
+          },
+          {
+            "VoiceCommandId": 10995,
+            "VoiceActionId": 1574,
+            "Command": "let's heat of the engine"
+          },
+          {
+            "VoiceCommandId": 10996,
+            "VoiceActionId": 1574,
+            "Command": "bang on"
+          },
+          {
+            "VoiceCommandId": 10997,
+            "VoiceActionId": 1574,
+            "Command": "activate race mode"
+          },
+          {
+            "VoiceCommandId": 10998,
+            "VoiceActionId": 1574,
+            "Command": "let's move on to race mode"
+          },
+          {
+            "VoiceCommandId": 10999,
+            "VoiceActionId": 1574,
+            "Command": "let's move onto race mode"
+          },
+          {
+            "VoiceCommandId": 11000,
+            "VoiceActionId": 1574,
+            "Command": "Raise mode"
+          },
+          {
+            "VoiceCommandId": 11001,
+            "VoiceActionId": 1574,
+            "Command": "Race Mood"
+          },
+          {
+            "VoiceCommandId": 11002,
+            "VoiceActionId": 1574,
+            "Command": "Race more"
+          },
+          {
+            "VoiceCommandId": 11003,
+            "VoiceActionId": 1574,
+            "Command": "Raise more"
+          },
+          {
+            "VoiceCommandId": 11004,
+            "VoiceActionId": 1574,
+            "Command": "press mode"
+          },
+          {
+            "VoiceCommandId": 11005,
+            "VoiceActionId": 1574,
+            "Command": "Rest mode"
+          },
+          {
+            "VoiceCommandId": 11173,
+            "VoiceActionId": 1574,
+            "Command": "Activate raise mood"
+          },
+          {
+            "VoiceCommandId": 11174,
+            "VoiceActionId": 1574,
+            "Command": "Activate race mood"
+          },
+          {
+            "VoiceCommandId": 11175,
+            "VoiceActionId": 1574,
+            "Command": "Activate Press mood"
+          },
+          {
+            "VoiceCommandId": 11176,
+            "VoiceActionId": 1574,
+            "Command": "Activate press mode"
+          },
+          {
+            "VoiceCommandId": 11177,
+            "VoiceActionId": 1574,
+            "Command": "Activate raise more"
+          },
+          {
+            "VoiceCommandId": 11178,
+            "VoiceActionId": 1574,
+            "Command": "Activate rest mode"
+          },
+          {
+            "VoiceCommandId": 11179,
+            "VoiceActionId": 1574,
+            "Command": "Activate face mode"
+          },
+          {
+            "VoiceCommandId": 11180,
+            "VoiceActionId": 1574,
+            "Command": "Activated race mode"
+          },
+          {
+            "VoiceCommandId": 11187,
+            "VoiceActionId": 1574,
+            "Command": "Activate read mode"
+          },
+          {
+            "VoiceCommandId": 11188,
+            "VoiceActionId": 1574,
+            "Command": "Activate read more"
+          },
+          {
+            "VoiceCommandId": 11206,
+            "VoiceActionId": 1574,
+            "Command": "Activate rest more"
+          },
+          {
+            "VoiceCommandId": 11207,
+            "VoiceActionId": 1574,
+            "Command": "Activate race more"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1575,
+        "Action": null,
+        "Intent": "MODE_STREET",
+        "VoiceFeedback": "Street Mode Activated",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": " STREET MODE",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11006,
+            "VoiceActionId": 1575,
+            "Command": "Street Mode"
+          },
+          {
+            "VoiceCommandId": 11007,
+            "VoiceActionId": 1575,
+            "Command": "turn off race"
+          },
+          {
+            "VoiceCommandId": 11008,
+            "VoiceActionId": 1575,
+            "Command": "go to traffic"
+          },
+          {
+            "VoiceCommandId": 11009,
+            "VoiceActionId": 1575,
+            "Command": "go slow"
+          },
+          {
+            "VoiceCommandId": 11010,
+            "VoiceActionId": 1575,
+            "Command": "Go to Street Mode"
+          },
+          {
+            "VoiceCommandId": 11011,
+            "VoiceActionId": 1575,
+            "Command": "deactivate race mode"
+          },
+          {
+            "VoiceCommandId": 11012,
+            "VoiceActionId": 1575,
+            "Command": "activate street mode"
+          },
+          {
+            "VoiceCommandId": 11013,
+            "VoiceActionId": 1575,
+            "Command": "Switch to Street"
+          },
+          {
+            "VoiceCommandId": 11014,
+            "VoiceActionId": 1575,
+            "Command": "sweet to treat"
+          },
+          {
+            "VoiceCommandId": 11015,
+            "VoiceActionId": 1575,
+            "Command": "Switch to Street mode"
+          },
+          {
+            "VoiceCommandId": 11184,
+            "VoiceActionId": 1575,
+            "Command": "Activate seat more"
+          },
+          {
+            "VoiceCommandId": 11185,
+            "VoiceActionId": 1575,
+            "Command": "Activate sweet more"
+          },
+          {
+            "VoiceCommandId": 11186,
+            "VoiceActionId": 1575,
+            "Command": "Activate sweet mode"
+          },
+          {
+            "VoiceCommandId": 11193,
+            "VoiceActionId": 1575,
+            "Command": "Activate sweet more"
+          },
+          {
+            "VoiceCommandId": 11194,
+            "VoiceActionId": 1575,
+            "Command": "Activate sleep mode"
+          },
+          {
+            "VoiceCommandId": 11195,
+            "VoiceActionId": 1575,
+            "Command": "Activate sweet more"
+          },
+          {
+            "VoiceCommandId": 11196,
+            "VoiceActionId": 1575,
+            "Command": "Activate seat more"
+          },
+          {
+            "VoiceCommandId": 11197,
+            "VoiceActionId": 1575,
+            "Command": "activate speed mode"
+          },
+          {
+            "VoiceCommandId": 11198,
+            "VoiceActionId": 1575,
+            "Command": "Activate pip mode"
+          },
+          {
+            "VoiceCommandId": 11199,
+            "VoiceActionId": 1575,
+            "Command": "Activate street mod"
+          },
+          {
+            "VoiceCommandId": 11204,
+            "VoiceActionId": 1575,
+            "Command": "Treat Mode"
+          },
+          {
+            "VoiceCommandId": 11205,
+            "VoiceActionId": 1575,
+            "Command": "Sleep"
+          },
+          {
+            "VoiceCommandId": 11210,
+            "VoiceActionId": 1575,
+            "Command": "Sleep Mode"
+          },
+          {
+            "VoiceCommandId": 11211,
+            "VoiceActionId": 1575,
+            "Command": "Steep Mode"
+          },
+          {
+            "VoiceCommandId": 11235,
+            "VoiceActionId": 1575,
+            "Command": "activate list mood"
+          },
+          {
+            "VoiceCommandId": 11236,
+            "VoiceActionId": 1575,
+            "Command": "read mode"
+          },
+          {
+            "VoiceCommandId": 11237,
+            "VoiceActionId": 1575,
+            "Command": "change to Street mod"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1576,
+        "Action": null,
+        "Intent": "BRIGHTNESS_INCREASE",
+        "VoiceFeedback": "Brightness increased",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "BRIGHTNESS",
+        "ClusterFeedback2": "INCREASED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11016,
+            "VoiceActionId": 1576,
+            "Command": "Brightness Increase"
+          },
+          {
+            "VoiceCommandId": 11017,
+            "VoiceActionId": 1576,
+            "Command": "Brightness Up"
+          },
+          {
+            "VoiceCommandId": 11018,
+            "VoiceActionId": 1576,
+            "Command": "Brightness High"
+          },
+          {
+            "VoiceCommandId": 11019,
+            "VoiceActionId": 1576,
+            "Command": "brightness hai"
+          },
+          {
+            "VoiceCommandId": 11020,
+            "VoiceActionId": 1576,
+            "Command": "increase the speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11021,
+            "VoiceActionId": 1576,
+            "Command": "turn up the brightness"
+          },
+          {
+            "VoiceCommandId": 11022,
+            "VoiceActionId": 1576,
+            "Command": "turn off night mode"
+          },
+          {
+            "VoiceCommandId": 11023,
+            "VoiceActionId": 1576,
+            "Command": "screen on height"
+          },
+          {
+            "VoiceCommandId": 11024,
+            "VoiceActionId": 1576,
+            "Command": "screen on hai"
+          },
+          {
+            "VoiceCommandId": 11025,
+            "VoiceActionId": 1576,
+            "Command": "increase the brightness"
+          },
+          {
+            "VoiceCommandId": 11026,
+            "VoiceActionId": 1576,
+            "Command": "increase the speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11027,
+            "VoiceActionId": 1576,
+            "Command": "increase speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11028,
+            "VoiceActionId": 1576,
+            "Command": "can you just increase the brightness of speedo"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1577,
+        "Action": null,
+        "Intent": "BRIGHTNESS_DECREASE",
+        "VoiceFeedback": "Brightness decreased",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "BRIGHTNESS",
+        "ClusterFeedback2": "DECREASED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11029,
+            "VoiceActionId": 1577,
+            "Command": "Brightness decreased"
+          },
+          {
+            "VoiceCommandId": 11030,
+            "VoiceActionId": 1577,
+            "Command": "Brightness down"
+          },
+          {
+            "VoiceCommandId": 11031,
+            "VoiceActionId": 1577,
+            "Command": "Brightness low"
+          },
+          {
+            "VoiceCommandId": 11032,
+            "VoiceActionId": 1577,
+            "Command": "reduce the speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11033,
+            "VoiceActionId": 1577,
+            "Command": "turn down the brightness"
+          },
+          {
+            "VoiceCommandId": 11034,
+            "VoiceActionId": 1577,
+            "Command": "switch the display to night mode"
+          },
+          {
+            "VoiceCommandId": 11035,
+            "VoiceActionId": 1577,
+            "Command": "Screen on low"
+          },
+          {
+            "VoiceCommandId": 11036,
+            "VoiceActionId": 1577,
+            "Command": "decrease the brightness a bit"
+          },
+          {
+            "VoiceCommandId": 11037,
+            "VoiceActionId": 1577,
+            "Command": "decrease the brightness audit"
+          },
+          {
+            "VoiceCommandId": 11038,
+            "VoiceActionId": 1577,
+            "Command": "decrease the brghtness of beat"
+          },
+          {
+            "VoiceCommandId": 11039,
+            "VoiceActionId": 1577,
+            "Command": "Decrease the brightness a it"
+          },
+          {
+            "VoiceCommandId": 11040,
+            "VoiceActionId": 1577,
+            "Command": "Decrease the brightness of beet"
+          },
+          {
+            "VoiceCommandId": 11041,
+            "VoiceActionId": 1577,
+            "Command": "decrease the speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11042,
+            "VoiceActionId": 1577,
+            "Command": "decrease speedo brightness"
+          },
+          {
+            "VoiceCommandId": 11043,
+            "VoiceActionId": 1577,
+            "Command": "can you just decrease the brightness of speedo"
+          },
+          {
+            "VoiceCommandId": 11044,
+            "VoiceActionId": 1577,
+            "Command": "you know its dark outside so decrease the brightness"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1578,
+        "Action": null,
+        "Intent": "CURRENT_LOCATION",
+        "VoiceFeedback": "You are around %s",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "LOCATION",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11045,
+            "VoiceActionId": 1578,
+            "Command": "my location "
+          },
+          {
+            "VoiceCommandId": 11046,
+            "VoiceActionId": 1578,
+            "Command": "where we right now"
+          },
+          {
+            "VoiceCommandId": 11047,
+            "VoiceActionId": 1578,
+            "Command": "what is the name of this place"
+          },
+          {
+            "VoiceCommandId": 11048,
+            "VoiceActionId": 1578,
+            "Command": "where am i right now & how far we are"
+          },
+          {
+            "VoiceCommandId": 11049,
+            "VoiceActionId": 1578,
+            "Command": "where am i now"
+          },
+          {
+            "VoiceCommandId": 11050,
+            "VoiceActionId": 1578,
+            "Command": "Whats this place called"
+          },
+          {
+            "VoiceCommandId": 11051,
+            "VoiceActionId": 1578,
+            "Command": "what is my current location"
+          },
+          {
+            "VoiceCommandId": 11053,
+            "VoiceActionId": 1578,
+            "Command": "where on earth are we"
+          },
+          {
+            "VoiceCommandId": 11054,
+            "VoiceActionId": 1578,
+            "Command": "what is my current location & street name"
+          },
+          {
+            "VoiceCommandId": 11055,
+            "VoiceActionId": 1578,
+            "Command": "Show my location"
+          },
+          {
+            "VoiceCommandId": 11056,
+            "VoiceActionId": 1578,
+            "Command": "Show my current location"
+          },
+          {
+            "VoiceCommandId": 11057,
+            "VoiceActionId": 1578,
+            "Command": "Show current location"
+          },
+          {
+            "VoiceCommandId": 11058,
+            "VoiceActionId": 1578,
+            "Command": "Show location"
+          },
+          {
+            "VoiceCommandId": 11059,
+            "VoiceActionId": 1578,
+            "Command": "where are we right now"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1579,
+        "Action": null,
+        "Intent": "CALL_MISSED",
+        "VoiceFeedback": "You have %d missed call",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "%d MISSED",
+        "ClusterFeedback2": "CALLS",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11060,
+            "VoiceActionId": 1579,
+            "Command": "How many missed calls I have"
+          },
+          {
+            "VoiceCommandId": 11061,
+            "VoiceActionId": 1579,
+            "Command": "have I missed calls"
+          },
+          {
+            "VoiceCommandId": 11062,
+            "VoiceActionId": 1579,
+            "Command": "missed call"
+          },
+          {
+            "VoiceCommandId": 11063,
+            "VoiceActionId": 1579,
+            "Command": "Number of missed calls"
+          },
+          {
+            "VoiceCommandId": 11064,
+            "VoiceActionId": 1579,
+            "Command": "did i get any calls"
+          },
+          {
+            "VoiceCommandId": 11065,
+            "VoiceActionId": 1579,
+            "Command": "show me missed calls"
+          },
+          {
+            "VoiceCommandId": 11066,
+            "VoiceActionId": 1579,
+            "Command": "Update status on the missed call"
+          },
+          {
+            "VoiceCommandId": 11067,
+            "VoiceActionId": 1579,
+            "Command": "read out the missed calls from saved contacts"
+          },
+          {
+            "VoiceCommandId": 11241,
+            "VoiceActionId": 1579,
+            "Command": "miss call"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1580,
+        "Action": null,
+        "Intent": "CALL_LAST",
+        "VoiceFeedback": "You have last call from %s",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "CALLER NAME",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11068,
+            "VoiceActionId": 1580,
+            "Command": "last call"
+          },
+          {
+            "VoiceCommandId": 11069,
+            "VoiceActionId": 1580,
+            "Command": "who called me last"
+          },
+          {
+            "VoiceCommandId": 11070,
+            "VoiceActionId": 1580,
+            "Command": "who called recently"
+          },
+          {
+            "VoiceCommandId": 11071,
+            "VoiceActionId": 1580,
+            "Command": "Last caller"
+          },
+          {
+            "VoiceCommandId": 11072,
+            "VoiceActionId": 1580,
+            "Command": "Show my last caller"
+          },
+          {
+            "VoiceCommandId": 11073,
+            "VoiceActionId": 1580,
+            "Command": "Who is my last caller"
+          },
+          {
+            "VoiceCommandId": 11238,
+            "VoiceActionId": 1580,
+            "Command": "you call me laugh"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1581,
+        "Action": null,
+        "Intent": "SPEED",
+        "VoiceFeedback": "Your top speed is %s kmph",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TOP SPEED",
+        "ClusterFeedback2": "%s KMPH",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11075,
+            "VoiceActionId": 1581,
+            "Command": "What is my top speed"
+          },
+          {
+            "VoiceCommandId": 11076,
+            "VoiceActionId": 1581,
+            "Command": "My highest speed"
+          },
+          {
+            "VoiceCommandId": 11077,
+            "VoiceActionId": 1581,
+            "Command": "What is my last high speed"
+          },
+          {
+            "VoiceCommandId": 11078,
+            "VoiceActionId": 1581,
+            "Command": "Top speed"
+          },
+          {
+            "VoiceCommandId": 11079,
+            "VoiceActionId": 1581,
+            "Command": "whats the top speed we did today"
+          },
+          {
+            "VoiceCommandId": 11080,
+            "VoiceActionId": 1581,
+            "Command": "how fast did i go"
+          },
+          {
+            "VoiceCommandId": 11081,
+            "VoiceActionId": 1581,
+            "Command": "how fast are we"
+          },
+          {
+            "VoiceCommandId": 11082,
+            "VoiceActionId": 1581,
+            "Command": "show me the stats for the last ride"
+          },
+          {
+            "VoiceCommandId": 11083,
+            "VoiceActionId": 1581,
+            "Command": "Tell me the top speed for the last ride"
+          },
+          {
+            "VoiceCommandId": 11084,
+            "VoiceActionId": 1581,
+            "Command": "whats my max speed hit "
+          },
+          {
+            "VoiceCommandId": 11085,
+            "VoiceActionId": 1581,
+            "Command": "max speed"
+          },
+          {
+            "VoiceCommandId": 11086,
+            "VoiceActionId": 1581,
+            "Command": "whats my top speed achieved in my last ride"
+          },
+          {
+            "VoiceCommandId": 11087,
+            "VoiceActionId": 1581,
+            "Command": "please get me the details of last ride - top speed"
+          },
+          {
+            "VoiceCommandId": 11088,
+            "VoiceActionId": 1581,
+            "Command": "what's the top speed we reached this time"
+          },
+          {
+            "VoiceCommandId": 11089,
+            "VoiceActionId": 1581,
+            "Command": "Show my highest speed"
+          },
+          {
+            "VoiceCommandId": 11090,
+            "VoiceActionId": 1581,
+            "Command": "Show top speed"
+          },
+          {
+            "VoiceCommandId": 11091,
+            "VoiceActionId": 1581,
+            "Command": "Show my top speed"
+          },
+          {
+            "VoiceCommandId": 11181,
+            "VoiceActionId": 1581,
+            "Command": "Top seed"
+          },
+          {
+            "VoiceCommandId": 11182,
+            "VoiceActionId": 1581,
+            "Command": "Show top seed"
+          },
+          {
+            "VoiceCommandId": 11183,
+            "VoiceActionId": 1581,
+            "Command": "Show my top seed"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1582,
+        "Action": null,
+        "Intent": "SETTING_AUTO_SMS_ENABLE",
+        "VoiceFeedback": "Auto SMS reply enabled",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "Auto SMS",
+        "ClusterFeedback2": "ENABLED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11092,
+            "VoiceActionId": 1582,
+            "Command": "enable auto sms"
+          },
+          {
+            "VoiceCommandId": 11093,
+            "VoiceActionId": 1582,
+            "Command": "Auto reply SMS ON"
+          },
+          {
+            "VoiceCommandId": 11094,
+            "VoiceActionId": 1582,
+            "Command": "Auto SMS ON"
+          },
+          {
+            "VoiceCommandId": 11095,
+            "VoiceActionId": 1582,
+            "Command": "Auto reply ON"
+          },
+          {
+            "VoiceCommandId": 11096,
+            "VoiceActionId": 1582,
+            "Command": "Enable auto reply"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1583,
+        "Action": null,
+        "Intent": "SETTING_AUTO_SMS_DISABLE",
+        "VoiceFeedback": "Auto SMS reply disabled",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "Auto SMS",
+        "ClusterFeedback2": "DISABLED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11097,
+            "VoiceActionId": 1583,
+            "Command": "disable auto sms"
+          },
+          {
+            "VoiceCommandId": 11098,
+            "VoiceActionId": 1583,
+            "Command": "Auto reply SMS OFF"
+          },
+          {
+            "VoiceCommandId": 11099,
+            "VoiceActionId": 1583,
+            "Command": "Auto SMS OFF"
+          },
+          {
+            "VoiceCommandId": 11100,
+            "VoiceActionId": 1583,
+            "Command": "Auto reply OFF"
+          },
+          {
+            "VoiceCommandId": 11101,
+            "VoiceActionId": 1583,
+            "Command": "Auto reply OFF"
+          },
+          {
+            "VoiceCommandId": 11102,
+            "VoiceActionId": 1583,
+            "Command": "Disable auto reply"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1584,
+        "Action": null,
+        "Intent": "SETTING_DND_ENABLE",
+        "VoiceFeedback": "Do not disturb setting enabled",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "DND",
+        "ClusterFeedback2": "ENABLED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11103,
+            "VoiceActionId": 1584,
+            "Command": "enable do not disturb"
+          },
+          {
+            "VoiceCommandId": 11104,
+            "VoiceActionId": 1584,
+            "Command": "Do Not Disturb enable"
+          },
+          {
+            "VoiceCommandId": 11105,
+            "VoiceActionId": 1584,
+            "Command": "Do Not Disturb ON"
+          },
+          {
+            "VoiceCommandId": 11106,
+            "VoiceActionId": 1584,
+            "Command": "enable DND"
+          },
+          {
+            "VoiceCommandId": 11107,
+            "VoiceActionId": 1584,
+            "Command": "DND setting enabled"
+          },
+          {
+            "VoiceCommandId": 11108,
+            "VoiceActionId": 1584,
+            "Command": "DND mode enabled"
+          },
+          {
+            "VoiceCommandId": 11109,
+            "VoiceActionId": 1584,
+            "Command": "Do not disturb setting enabled"
+          },
+          {
+            "VoiceCommandId": 11110,
+            "VoiceActionId": 1584,
+            "Command": "Do not disturb mode enabled"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1585,
+        "Action": null,
+        "Intent": "SETTING_DND_DISABLE",
+        "VoiceFeedback": "Do not disturb setting disabled",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "DND",
+        "ClusterFeedback2": "DISABLED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11111,
+            "VoiceActionId": 1585,
+            "Command": "disable do not disturb"
+          },
+          {
+            "VoiceCommandId": 11112,
+            "VoiceActionId": 1585,
+            "Command": "Do Not Disturb disable"
+          },
+          {
+            "VoiceCommandId": 11113,
+            "VoiceActionId": 1585,
+            "Command": "Do Not Disturb OFF"
+          },
+          {
+            "VoiceCommandId": 11114,
+            "VoiceActionId": 1585,
+            "Command": "Disable calls while riding "
+          },
+          {
+            "VoiceCommandId": 11115,
+            "VoiceActionId": 1585,
+            "Command": "Cut calls while riding"
+          },
+          {
+            "VoiceCommandId": 11116,
+            "VoiceActionId": 1585,
+            "Command": "disable DND"
+          },
+          {
+            "VoiceCommandId": 11117,
+            "VoiceActionId": 1585,
+            "Command": "DND setting disable"
+          },
+          {
+            "VoiceCommandId": 11118,
+            "VoiceActionId": 1585,
+            "Command": "DND mode disable"
+          },
+          {
+            "VoiceCommandId": 11119,
+            "VoiceActionId": 1585,
+            "Command": "Do not disturb setting disable"
+          },
+          {
+            "VoiceCommandId": 11120,
+            "VoiceActionId": 1585,
+            "Command": "Do not disturb mode disable"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1586,
+        "Action": null,
+        "Intent": "RIDE_START_TIME",
+        "VoiceFeedback": "Ride Time %s",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "RIDE TIME",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11121,
+            "VoiceActionId": 1586,
+            "Command": "When did I start my ride"
+          },
+          {
+            "VoiceCommandId": 11122,
+            "VoiceActionId": 1586,
+            "Command": "What time I start ride"
+          },
+          {
+            "VoiceCommandId": 11123,
+            "VoiceActionId": 1586,
+            "Command": "When did we start from home / work"
+          },
+          {
+            "VoiceCommandId": 11124,
+            "VoiceActionId": 1586,
+            "Command": "Ride start time"
+          },
+          {
+            "VoiceCommandId": 11125,
+            "VoiceActionId": 1586,
+            "Command": "Show start time"
+          },
+          {
+            "VoiceCommandId": 11126,
+            "VoiceActionId": 1586,
+            "Command": "Show ride start time"
+          },
+          {
+            "VoiceCommandId": 11127,
+            "VoiceActionId": 1586,
+            "Command": "Start time of ride"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1587,
+        "Action": null,
+        "Intent": "SHARE_LAST_TRIP_ON_WHATS_APP",
+        "VoiceFeedback": "Share last trip on whats app",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "SHARING LAST",
+        "ClusterFeedback2": "TRIP ON WHATS APP",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11128,
+            "VoiceActionId": 1587,
+            "Command": "Share last trip"
+          },
+          {
+            "VoiceCommandId": 11129,
+            "VoiceActionId": 1587,
+            "Command": "Share my last trip in WhatsApp"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1588,
+        "Action": null,
+        "Intent": "VOLUME_INCREASE",
+        "VoiceFeedback": "Volume Increased",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "VOLUME",
+        "ClusterFeedback2": "INCREASED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11130,
+            "VoiceActionId": 1588,
+            "Command": "Increase volume"
+          },
+          {
+            "VoiceCommandId": 11131,
+            "VoiceActionId": 1588,
+            "Command": "Volume up"
+          },
+          {
+            "VoiceCommandId": 11132,
+            "VoiceActionId": 1588,
+            "Command": "increase sound"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1589,
+        "Action": null,
+        "Intent": "VOLUME_DECREASE",
+        "VoiceFeedback": "Volume Decreased",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "VOLUME",
+        "ClusterFeedback2": "DECREASED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11133,
+            "VoiceActionId": 1589,
+            "Command": "Decrease volume"
+          },
+          {
+            "VoiceCommandId": 11134,
+            "VoiceActionId": 1589,
+            "Command": "Volume down"
+          },
+          {
+            "VoiceCommandId": 11135,
+            "VoiceActionId": 1589,
+            "Command": "decrease sound"
+          },
+          {
+            "VoiceCommandId": 11136,
+            "VoiceActionId": 1589,
+            "Command": "reduce volume"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1590,
+        "Action": null,
+        "Intent": "SETTING_HIGH_SPEED_ALERT_ENABLE",
+        "VoiceFeedback": "High speed alert setting enabled",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "ENABLED",
+        "ClusterFeedback2": "SPEED ALERT",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11137,
+            "VoiceActionId": 1590,
+            "Command": "Enable high speed alert"
+          },
+          {
+            "VoiceCommandId": 11200,
+            "VoiceActionId": 1590,
+            "Command": "Enable high-speed alert"
+          },
+          {
+            "VoiceCommandId": 11239,
+            "VoiceActionId": 1590,
+            "Command": "Enable High Street alert"
+          },
+          {
+            "VoiceCommandId": 11240,
+            "VoiceActionId": 1590,
+            "Command": "Enable high-speed select"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1591,
+        "Action": null,
+        "Intent": "SETTING_HIGH_SPEED_ALERT_DISABLE",
+        "VoiceFeedback": "High speed alert setting disabled",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "DISABLED",
+        "ClusterFeedback2": "SPEED ALERT",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11138,
+            "VoiceActionId": 1591,
+            "Command": "Disable high speed alert"
+          },
+          {
+            "VoiceCommandId": 11201,
+            "VoiceActionId": 1591,
+            "Command": "Disable high-speed alert"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1592,
+        "Action": null,
+        "Intent": "BLUETOOTH_CONNECTED_EVERYTIME",
+        "VoiceFeedback": "Hello %s, how can I help you?",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "HELLO",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1593,
+        "Action": null,
+        "Intent": "MAP_LOADING",
+        "VoiceFeedback": "Navigation assist on",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NAVIGATION",
+        "ClusterFeedback2": "ASSIST ON",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1594,
+        "Action": null,
+        "Intent": "TBT_ROUTE_LOADING",
+        "VoiceFeedback": "Finding best route for you",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "FINDING",
+        "ClusterFeedback2": "BEST ROUTE",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1595,
+        "Action": null,
+        "Intent": "BLUETOOTH_CONNECTED_FIRST_TIME_EVERYDAY",
+        "VoiceFeedback": "Vehicle Connected",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "VEHICLE",
+        "ClusterFeedback2": "CONNECTED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1596,
+        "Action": null,
+        "Intent": "PHONE_BATTERY_LOW",
+        "VoiceFeedback": "Phone battery low, Please connect to vehicle mobile charger",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "PHONE",
+        "ClusterFeedback2": "BATTERY LOW",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1597,
+        "Action": null,
+        "Intent": "MAXIMUM_BRIGHTNESS",
+        "VoiceFeedback": "Maximum brightness",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "MAXIMUM",
+        "ClusterFeedback2": "BRIGHTNESS",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1598,
+        "Action": null,
+        "Intent": "MINIMUM_BRIGHTNESS",
+        "VoiceFeedback": "Minimum brightness",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "MINIMUM",
+        "ClusterFeedback2": "BRIGHTNESS",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1599,
+        "Action": null,
+        "Intent": "OVERALL_TOP_SPEED",
+        "VoiceFeedback": "Top speed achieved",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TOP SPEED",
+        "ClusterFeedback2": "%s KMPH",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1600,
+        "Action": null,
+        "Intent": "BEST_0_TO_60_IN_RIDE",
+        "VoiceFeedback": "Best acceleration achieved",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "BEST",
+        "ClusterFeedback2": "ACCELERATION",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1601,
+        "Action": null,
+        "Intent": "ODOMETER_1000_KM",
+        "VoiceFeedback": "Congrats Travelled odometer reading km",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TRAVELLED",
+        "ClusterFeedback2": "%s KM",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1602,
+        "Action": null,
+        "Intent": "POOR_NETWORK",
+        "VoiceFeedback": "Poor network",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "POOR",
+        "ClusterFeedback2": "NETWORK",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1603,
+        "Action": null,
+        "Intent": "GPS_SIGNAL_LOW",
+        "VoiceFeedback": "Low GPS signal",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "GPS",
+        "ClusterFeedback2": "SIGNAL LOW",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1604,
+        "Action": null,
+        "Intent": "SERVICE_DUE",
+        "VoiceFeedback": "Service due date",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "SERVICE DUE",
+        "ClusterFeedback2": "%s",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1605,
+        "Action": null,
+        "Intent": "FUEL_WASTAGE",
+        "VoiceFeedback": "Check Fuel wastage",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "WARNING",
+        "ClusterFeedback2": "FUEL WASTAGE",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1606,
+        "Action": null,
+        "Intent": "FUEL_LOW",
+        "VoiceFeedback": "Check Fuel low",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "WARNING",
+        "ClusterFeedback2": "FUEL LOW",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1607,
+        "Action": null,
+        "Intent": "SMS_RECEIVED",
+        "VoiceFeedback": "Sms Received",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "SMS",
+        "ClusterFeedback2": "RECEIVED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1608,
+        "Action": null,
+        "Intent": "MOBIL_DATA_TURN_ON",
+        "VoiceFeedback": "Turn on mobile data",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TURN ON",
+        "ClusterFeedback2": "MOBILE DATA",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1609,
+        "Action": null,
+        "Intent": "GPS_PERMISSION",
+        "VoiceFeedback": "Need GPS Permission",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "GPS",
+        "ClusterFeedback2": "PERMISSION",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1610,
+        "Action": null,
+        "Intent": "GPS_TURN_ON",
+        "VoiceFeedback": "Turn on GPS",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TURN ON",
+        "ClusterFeedback2": "GPS",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1611,
+        "Action": null,
+        "Intent": "GPS_POOR",
+        "VoiceFeedback": "Poor GPS signal",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "GPS ",
+        "ClusterFeedback2": "SIGNAL POOR",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1612,
+        "Action": null,
+        "Intent": "MY_LOCATION_NOT_FOUND",
+        "VoiceFeedback": "Place not found",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "PLACE",
+        "ClusterFeedback2": "NOT FOUND",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1613,
+        "Action": null,
+        "Intent": "NAVIGATION_NOT_FOUND",
+        "VoiceFeedback": "Place not found",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "PLACE",
+        "ClusterFeedback2": "NOT FOUND",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1614,
+        "Action": null,
+        "Intent": "POI_NOT_FOUND",
+        "VoiceFeedback": "No nearby Poi  found",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NO NEARBY ",
+        "ClusterFeedback2": "POI FOUND",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1615,
+        "Action": null,
+        "Intent": "SPEEDOMETER_DISCONNECTED",
+        "VoiceFeedback": "Vehicle disconnected",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "VEHICLE",
+        "ClusterFeedback2": "DISCONNECTED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1616,
+        "Action": null,
+        "Intent": "CALL_PERMISSION",
+        "VoiceFeedback": "Need Call Permission",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "CALL",
+        "ClusterFeedback2": "PERMISSION",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1617,
+        "Action": null,
+        "Intent": "NO_MISSED_CALL",
+        "VoiceFeedback": "You have no missed call",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NO MISSED",
+        "ClusterFeedback2": "CALL",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1618,
+        "Action": null,
+        "Intent": "MAXIMUM_VOLUME",
+        "VoiceFeedback": "Maximum Volume",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "MAXIMUM",
+        "ClusterFeedback2": "VOLUME",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1619,
+        "Action": null,
+        "Intent": "MINIMUM_VOLUME",
+        "VoiceFeedback": "Minimum Volume",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "MINIMUM",
+        "ClusterFeedback2": "VOLUME",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1621,
+        "Action": null,
+        "Intent": "COMMAND_LIST_ANDROID",
+        "VoiceFeedback": "",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11153,
+            "VoiceActionId": 1621,
+            "Command": "Hi buddy"
+          },
+          {
+            "VoiceCommandId": 11154,
+            "VoiceActionId": 1621,
+            "Command": "Nearest petrol pump"
+          },
+          {
+            "VoiceCommandId": 11155,
+            "VoiceActionId": 1621,
+            "Command": "Activate race mode"
+          },
+          {
+            "VoiceCommandId": 11156,
+            "VoiceActionId": 1621,
+            "Command": "Activate street mode"
+          },
+          {
+            "VoiceCommandId": 11157,
+            "VoiceActionId": 1621,
+            "Command": "Brightness increase"
+          },
+          {
+            "VoiceCommandId": 11158,
+            "VoiceActionId": 1621,
+            "Command": "Brightness decrease"
+          },
+          {
+            "VoiceCommandId": 11159,
+            "VoiceActionId": 1621,
+            "Command": "Show my location"
+          },
+          {
+            "VoiceCommandId": 11160,
+            "VoiceActionId": 1621,
+            "Command": "Show me missed calls"
+          },
+          {
+            "VoiceCommandId": 11161,
+            "VoiceActionId": 1621,
+            "Command": "Show my last caller"
+          },
+          {
+            "VoiceCommandId": 11162,
+            "VoiceActionId": 1621,
+            "Command": "Show top speed"
+          },
+          {
+            "VoiceCommandId": 11163,
+            "VoiceActionId": 1621,
+            "Command": "Enable auto sms"
+          },
+          {
+            "VoiceCommandId": 11164,
+            "VoiceActionId": 1621,
+            "Command": "Disable auto sms"
+          },
+          {
+            "VoiceCommandId": 11165,
+            "VoiceActionId": 1621,
+            "Command": "Enable do not disturb"
+          },
+          {
+            "VoiceCommandId": 11166,
+            "VoiceActionId": 1621,
+            "Command": "Disable do not disturb"
+          },
+          {
+            "VoiceCommandId": 11168,
+            "VoiceActionId": 1621,
+            "Command": "Show ride start time"
+          },
+          {
+            "VoiceCommandId": 11169,
+            "VoiceActionId": 1621,
+            "Command": "Increase volume"
+          },
+          {
+            "VoiceCommandId": 11170,
+            "VoiceActionId": 1621,
+            "Command": "Decrease volume"
+          },
+          {
+            "VoiceCommandId": 11171,
+            "VoiceActionId": 1621,
+            "Command": "Enable high speed alert"
+          },
+          {
+            "VoiceCommandId": 11172,
+            "VoiceActionId": 1621,
+            "Command": "Disable high speed alert"
+          },
+          {
+            "VoiceCommandId": 11191,
+            "VoiceActionId": 1621,
+            "Command": "Change mode"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1622,
+        "Action": null,
+        "Intent": "CHANGE_MODE",
+        "VoiceFeedback": "Mode changed",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11189,
+            "VoiceActionId": 1622,
+            "Command": "Change Mode"
+          },
+          {
+            "VoiceCommandId": 11192,
+            "VoiceActionId": 1622,
+            "Command": "Change mood"
+          },
+          {
+            "VoiceCommandId": 11202,
+            "VoiceActionId": 1622,
+            "Command": "Mode Change"
+          },
+          {
+            "VoiceCommandId": 11203,
+            "VoiceActionId": 1622,
+            "Command": "More Change"
+          },
+          {
+            "VoiceCommandId": 11208,
+            "VoiceActionId": 1622,
+            "Command": "Mood Change"
+          },
+          {
+            "VoiceCommandId": 11209,
+            "VoiceActionId": 1622,
+            "Command": "Change More"
+          },
+          {
+            "VoiceCommandId": 11230,
+            "VoiceActionId": 1622,
+            "Command": "mode change"
+          },
+          {
+            "VoiceCommandId": 11231,
+            "VoiceActionId": 1622,
+            "Command": "change the mode"
+          },
+          {
+            "VoiceCommandId": 11232,
+            "VoiceActionId": 1622,
+            "Command": "change Bond"
+          },
+          {
+            "VoiceCommandId": 11233,
+            "VoiceActionId": 1622,
+            "Command": "change your mood"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1623,
+        "Action": null,
+        "Intent": "CANCEL_NAVIGATION",
+        "VoiceFeedback": "Navigation is Canceled",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NAVIGATION",
+        "ClusterFeedback2": "CANCELED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11212,
+            "VoiceActionId": 1623,
+            "Command": "Cancel Navigation"
+          },
+          {
+            "VoiceCommandId": 11213,
+            "VoiceActionId": 1623,
+            "Command": "Navigation Cancel"
+          },
+          {
+            "VoiceCommandId": 11214,
+            "VoiceActionId": 1623,
+            "Command": "Stop Navigation"
+          },
+          {
+            "VoiceCommandId": 11215,
+            "VoiceActionId": 1623,
+            "Command": "Reject Navigation"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1624,
+        "Action": null,
+        "Intent": "CALL_ACCEPT",
+        "VoiceFeedback": "Call is accepted",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "CALL ACCEPT",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11216,
+            "VoiceActionId": 1624,
+            "Command": "Call accept"
+          },
+          {
+            "VoiceCommandId": 11217,
+            "VoiceActionId": 1624,
+            "Command": "Accept call"
+          },
+          {
+            "VoiceCommandId": 11218,
+            "VoiceActionId": 1624,
+            "Command": "Recive call"
+          },
+          {
+            "VoiceCommandId": 11219,
+            "VoiceActionId": 1624,
+            "Command": "Call recive"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1625,
+        "Action": null,
+        "Intent": "CALL_REJECT",
+        "VoiceFeedback": "Call is Rejected",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "CALL REJECT ",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 11220,
+            "VoiceActionId": 1625,
+            "Command": "Call Reject"
+          },
+          {
+            "VoiceCommandId": 11221,
+            "VoiceActionId": 1625,
+            "Command": "Reject call"
+          },
+          {
+            "VoiceCommandId": 11222,
+            "VoiceActionId": 1625,
+            "Command": "cancel call"
+          },
+          {
+            "VoiceCommandId": 11223,
+            "VoiceActionId": 1625,
+            "Command": "Suspend call"
+          },
+          {
+            "VoiceCommandId": 11224,
+            "VoiceActionId": 1625,
+            "Command": "Call Suspend "
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1626,
+        "Action": null,
+        "Intent": "REFER_TO_COMMAND_LIST",
+        "VoiceFeedback": "Refer to command list",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1627,
+        "Action": null,
+        "Intent": "MICROPHONE_PERMISSION",
+        "VoiceFeedback": "Need Microphone Permission",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "MICROPHONE",
+        "ClusterFeedback2": "PERMISSION",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1628,
+        "Action": null,
+        "Intent": "NAVIGATION_ALREADY_RUNNING",
+        "VoiceFeedback": "Navigation already running",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NAVIGATION",
+        "ClusterFeedback2": "ALREADY RUNNING",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1629,
+        "Action": null,
+        "Intent": "RIDE_NOT_STARTED",
+        "VoiceFeedback": "Please Start Ride",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "PLEASE",
+        "ClusterFeedback2": "START RIDE",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1630,
+        "Action": null,
+        "Intent": "RIDING_NOT",
+        "VoiceFeedback": "Try while Riding",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "TRY",
+        "ClusterFeedback2": "WHILE RIDING",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1631,
+        "Action": null,
+        "Intent": "VA_BACKGROUND_ALLOW",
+        "VoiceFeedback": "Please provide authorisation from the app to use voice assist in background mode",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "ALLOW",
+        "ClusterFeedback2": "PERMISSION",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": []
+      },
+      {
+        "VoiceActionId": 1633,
+        "Action": null,
+        "Intent": "POI_PETROL_PUMP",
+        "VoiceFeedback": "Taking you to nearest petrol pump",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "%s",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10822,
+            "VoiceActionId": 1633,
+            "Command": "Near Petrol Pump"
+          },
+          {
+            "VoiceCommandId": 10823,
+            "VoiceActionId": 1633,
+            "Command": "Nearby Petrol Pump"
+          },
+          {
+            "VoiceCommandId": 10824,
+            "VoiceActionId": 1633,
+            "Command": "Near to Petrol Pump"
+          },
+          {
+            "VoiceCommandId": 10825,
+            "VoiceActionId": 1633,
+            "Command": "Nearest Petrol Pump"
+          },
+          {
+            "VoiceCommandId": 10826,
+            "VoiceActionId": 1633,
+            "Command": "Take me to Nearest Petrol Pump"
+          },
+          {
+            "VoiceCommandId": 10827,
+            "VoiceActionId": 1633,
+            "Command": "Near Petrol Station"
+          },
+          {
+            "VoiceCommandId": 10828,
+            "VoiceActionId": 1633,
+            "Command": "Nearby Petrol Station"
+          },
+          {
+            "VoiceCommandId": 10829,
+            "VoiceActionId": 1633,
+            "Command": "Near to Petrol Station"
+          },
+          {
+            "VoiceCommandId": 10830,
+            "VoiceActionId": 1633,
+            "Command": "Nearest Petrol Station"
+          },
+          {
+            "VoiceCommandId": 10831,
+            "VoiceActionId": 1633,
+            "Command": "Take me to Nearest Petrol Station"
+          },
+          {
+            "VoiceCommandId": 10832,
+            "VoiceActionId": 1633,
+            "Command": "Near Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10833,
+            "VoiceActionId": 1633,
+            "Command": "Nearby Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10834,
+            "VoiceActionId": 1633,
+            "Command": "Near to Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10835,
+            "VoiceActionId": 1633,
+            "Command": "Nearest Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10836,
+            "VoiceActionId": 1633,
+            "Command": "Take me to Nearest Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10837,
+            "VoiceActionId": 1633,
+            "Command": "Petrol station"
+          },
+          {
+            "VoiceCommandId": 10838,
+            "VoiceActionId": 1633,
+            "Command": "Petrol pump"
+          },
+          {
+            "VoiceCommandId": 10839,
+            "VoiceActionId": 1633,
+            "Command": "Petrol pumps"
+          },
+          {
+            "VoiceCommandId": 10840,
+            "VoiceActionId": 1633,
+            "Command": "Fuel Station"
+          },
+          {
+            "VoiceCommandId": 10841,
+            "VoiceActionId": 1633,
+            "Command": "Gas Station"
+          },
+          {
+            "VoiceCommandId": 10910,
+            "VoiceActionId": 1633,
+            "Command": "navigate me to fuel station"
+          },
+          {
+            "VoiceCommandId": 10911,
+            "VoiceActionId": 1633,
+            "Command": "navigate me to petrol pump"
+          },
+          {
+            "VoiceCommandId": 10912,
+            "VoiceActionId": 1633,
+            "Command": "navigate me to petrol station"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1634,
+        "Action": null,
+        "Intent": "POI_RESTAURANTS",
+        "VoiceFeedback": "Taking you to nearest restaurant",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "%s",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10842,
+            "VoiceActionId": 1634,
+            "Command": "Near Restaurant"
+          },
+          {
+            "VoiceCommandId": 10843,
+            "VoiceActionId": 1634,
+            "Command": "Nearby Restaurant"
+          },
+          {
+            "VoiceCommandId": 10844,
+            "VoiceActionId": 1634,
+            "Command": "Near to Restaurant"
+          },
+          {
+            "VoiceCommandId": 10845,
+            "VoiceActionId": 1634,
+            "Command": "Nearest Restaurant"
+          },
+          {
+            "VoiceCommandId": 10846,
+            "VoiceActionId": 1634,
+            "Command": "Take me to Nearest Restaurant"
+          },
+          {
+            "VoiceCommandId": 10847,
+            "VoiceActionId": 1634,
+            "Command": "Near Restaurants"
+          },
+          {
+            "VoiceCommandId": 10848,
+            "VoiceActionId": 1634,
+            "Command": "Nearby Restaurants"
+          },
+          {
+            "VoiceCommandId": 10849,
+            "VoiceActionId": 1634,
+            "Command": "Near to Restaurants"
+          },
+          {
+            "VoiceCommandId": 10850,
+            "VoiceActionId": 1634,
+            "Command": "Nearest Restaurants"
+          },
+          {
+            "VoiceCommandId": 10851,
+            "VoiceActionId": 1634,
+            "Command": "Take me to Nearest Restaurants"
+          },
+          {
+            "VoiceCommandId": 10913,
+            "VoiceActionId": 1634,
+            "Command": "take me to nearest restaurant"
+          },
+          {
+            "VoiceCommandId": 10914,
+            "VoiceActionId": 1634,
+            "Command": "take me to nearest restaurants"
+          },
+          {
+            "VoiceCommandId": 10915,
+            "VoiceActionId": 1634,
+            "Command": "navigate me to restaurant"
+          },
+          {
+            "VoiceCommandId": 10916,
+            "VoiceActionId": 1634,
+            "Command": "navigate me to restaurants"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1635,
+        "Action": null,
+        "Intent": "POI_HOSPITAL",
+        "VoiceFeedback": "Taking you to nearest hospital",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "%s",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10852,
+            "VoiceActionId": 1635,
+            "Command": "Near Hospital"
+          },
+          {
+            "VoiceCommandId": 10853,
+            "VoiceActionId": 1635,
+            "Command": "Nearby Hospital"
+          },
+          {
+            "VoiceCommandId": 10854,
+            "VoiceActionId": 1635,
+            "Command": "Near to Hospital"
+          },
+          {
+            "VoiceCommandId": 10855,
+            "VoiceActionId": 1635,
+            "Command": "Nearest Hospital"
+          },
+          {
+            "VoiceCommandId": 10856,
+            "VoiceActionId": 1635,
+            "Command": "Take me to Nearest Hospital"
+          },
+          {
+            "VoiceCommandId": 10857,
+            "VoiceActionId": 1635,
+            "Command": "Near Hospitals"
+          },
+          {
+            "VoiceCommandId": 10858,
+            "VoiceActionId": 1635,
+            "Command": "Nearby Hospitals"
+          },
+          {
+            "VoiceCommandId": 10859,
+            "VoiceActionId": 1635,
+            "Command": "Near to Hospitals"
+          },
+          {
+            "VoiceCommandId": 10860,
+            "VoiceActionId": 1635,
+            "Command": "Nearest Hospitals"
+          },
+          {
+            "VoiceCommandId": 10861,
+            "VoiceActionId": 1635,
+            "Command": "Take me to Nearest Hospitals"
+          },
+          {
+            "VoiceCommandId": 10906,
+            "VoiceActionId": 1635,
+            "Command": "take me to nearest hospitals"
+          },
+          {
+            "VoiceCommandId": 10907,
+            "VoiceActionId": 1635,
+            "Command": "take me to nearest hospitals"
+          },
+          {
+            "VoiceCommandId": 10908,
+            "VoiceActionId": 1635,
+            "Command": "navigate me to hospitals"
+          },
+          {
+            "VoiceCommandId": 10909,
+            "VoiceActionId": 1635,
+            "Command": "navigate me to hospitals"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1636,
+        "Action": null,
+        "Intent": "POI_SERVICE_CENTER",
+        "VoiceFeedback": "Taking you to nearest tvs service center",
+        "Platform": "Android",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "%s",
+        "ClusterFeedback2": "",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10862,
+            "VoiceActionId": 1636,
+            "Command": "Near tvs"
+          },
+          {
+            "VoiceCommandId": 10863,
+            "VoiceActionId": 1636,
+            "Command": "Nearby tvs"
+          },
+          {
+            "VoiceCommandId": 10864,
+            "VoiceActionId": 1636,
+            "Command": "Near to tvs"
+          },
+          {
+            "VoiceCommandId": 10865,
+            "VoiceActionId": 1636,
+            "Command": "Nearest tvs"
+          },
+          {
+            "VoiceCommandId": 10866,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest tvs"
+          },
+          {
+            "VoiceCommandId": 10867,
+            "VoiceActionId": 1636,
+            "Command": "Near tvs store"
+          },
+          {
+            "VoiceCommandId": 10868,
+            "VoiceActionId": 1636,
+            "Command": "Nearby tvs store"
+          },
+          {
+            "VoiceCommandId": 10869,
+            "VoiceActionId": 1636,
+            "Command": "Near to tvs store"
+          },
+          {
+            "VoiceCommandId": 10870,
+            "VoiceActionId": 1636,
+            "Command": "Nearest tvs store"
+          },
+          {
+            "VoiceCommandId": 10871,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest tvs store"
+          },
+          {
+            "VoiceCommandId": 10872,
+            "VoiceActionId": 1636,
+            "Command": "Near tvs center"
+          },
+          {
+            "VoiceCommandId": 10873,
+            "VoiceActionId": 1636,
+            "Command": "Nearby tvs center"
+          },
+          {
+            "VoiceCommandId": 10874,
+            "VoiceActionId": 1636,
+            "Command": "Near to tvs center"
+          },
+          {
+            "VoiceCommandId": 10875,
+            "VoiceActionId": 1636,
+            "Command": "Nearest tvs center"
+          },
+          {
+            "VoiceCommandId": 10876,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest tvs center"
+          },
+          {
+            "VoiceCommandId": 10877,
+            "VoiceActionId": 1636,
+            "Command": "Near tvs service center"
+          },
+          {
+            "VoiceCommandId": 10878,
+            "VoiceActionId": 1636,
+            "Command": "Nearby tvs service center"
+          },
+          {
+            "VoiceCommandId": 10879,
+            "VoiceActionId": 1636,
+            "Command": "Near to tvs service center"
+          },
+          {
+            "VoiceCommandId": 10880,
+            "VoiceActionId": 1636,
+            "Command": "Nearest tvs service center"
+          },
+          {
+            "VoiceCommandId": 10881,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest tvs service center"
+          },
+          {
+            "VoiceCommandId": 10882,
+            "VoiceActionId": 1636,
+            "Command": "Near tvs show room"
+          },
+          {
+            "VoiceCommandId": 10883,
+            "VoiceActionId": 1636,
+            "Command": "Nearby tvs show room"
+          },
+          {
+            "VoiceCommandId": 10884,
+            "VoiceActionId": 1636,
+            "Command": "Near to tvs show room"
+          },
+          {
+            "VoiceCommandId": 10885,
+            "VoiceActionId": 1636,
+            "Command": "Nearest tvs show room"
+          },
+          {
+            "VoiceCommandId": 10886,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest tvs show room"
+          },
+          {
+            "VoiceCommandId": 10887,
+            "VoiceActionId": 1636,
+            "Command": "Near service centre"
+          },
+          {
+            "VoiceCommandId": 10888,
+            "VoiceActionId": 1636,
+            "Command": "Nearby service centre"
+          },
+          {
+            "VoiceCommandId": 10889,
+            "VoiceActionId": 1636,
+            "Command": "Near to service centre"
+          },
+          {
+            "VoiceCommandId": 10890,
+            "VoiceActionId": 1636,
+            "Command": "Nearest service centre"
+          },
+          {
+            "VoiceCommandId": 10891,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest service centre"
+          },
+          {
+            "VoiceCommandId": 10892,
+            "VoiceActionId": 1636,
+            "Command": "Near service center"
+          },
+          {
+            "VoiceCommandId": 10893,
+            "VoiceActionId": 1636,
+            "Command": "Near by service center"
+          },
+          {
+            "VoiceCommandId": 10894,
+            "VoiceActionId": 1636,
+            "Command": "Near to service center"
+          },
+          {
+            "VoiceCommandId": 10895,
+            "VoiceActionId": 1636,
+            "Command": "Nearest service center"
+          },
+          {
+            "VoiceCommandId": 10896,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest service center"
+          },
+          {
+            "VoiceCommandId": 10897,
+            "VoiceActionId": 1636,
+            "Command": "Near service station"
+          },
+          {
+            "VoiceCommandId": 10898,
+            "VoiceActionId": 1636,
+            "Command": "Nearby service station"
+          },
+          {
+            "VoiceCommandId": 10899,
+            "VoiceActionId": 1636,
+            "Command": "Near to service station"
+          },
+          {
+            "VoiceCommandId": 10900,
+            "VoiceActionId": 1636,
+            "Command": "Nearest service station"
+          },
+          {
+            "VoiceCommandId": 10901,
+            "VoiceActionId": 1636,
+            "Command": "Take me to Nearest service station"
+          },
+          {
+            "VoiceCommandId": 10902,
+            "VoiceActionId": 1636,
+            "Command": "Service centre"
+          },
+          {
+            "VoiceCommandId": 10903,
+            "VoiceActionId": 1636,
+            "Command": "TVS Showroom"
+          },
+          {
+            "VoiceCommandId": 10904,
+            "VoiceActionId": 1636,
+            "Command": "Service station"
+          },
+          {
+            "VoiceCommandId": 10905,
+            "VoiceActionId": 1636,
+            "Command": "TVS Store"
+          },
+          {
+            "VoiceCommandId": 10917,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest service center"
+          },
+          {
+            "VoiceCommandId": 10918,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest service station"
+          },
+          {
+            "VoiceCommandId": 10919,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest tvs"
+          },
+          {
+            "VoiceCommandId": 10920,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest tvs center"
+          },
+          {
+            "VoiceCommandId": 10921,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest tvs service center"
+          },
+          {
+            "VoiceCommandId": 10922,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest tvs show room"
+          },
+          {
+            "VoiceCommandId": 10923,
+            "VoiceActionId": 1636,
+            "Command": "take me to nearest tvs store"
+          },
+          {
+            "VoiceCommandId": 10924,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to service center"
+          },
+          {
+            "VoiceCommandId": 10925,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to service station"
+          },
+          {
+            "VoiceCommandId": 10926,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to nearest tvs"
+          },
+          {
+            "VoiceCommandId": 10927,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to tvs center"
+          },
+          {
+            "VoiceCommandId": 10928,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to tvs service center"
+          },
+          {
+            "VoiceCommandId": 10929,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to tvs show room"
+          },
+          {
+            "VoiceCommandId": 10930,
+            "VoiceActionId": 1636,
+            "Command": "navigate me to tvs store"
+          }
+        ]
+      },
+      {
+        "VoiceActionId": 1637,
+        "Action": null,
+        "Intent": "END_NAVIGATION",
+        "VoiceFeedback": "Navigation is Canceled",
+        "Platform": "ALL",
+        "VehicleTypeId": 37,
+        "ClusterFeedback1": "NAVIGATION",
+        "ClusterFeedback2": "CANCELED",
+        "Theme": 0,
+        "DisplayText": null,
+        "Description": null,
+        "Commands": [
+          {
+            "VoiceCommandId": 10813,
+            "VoiceActionId": 1637,
+            "Command": "End Navigation"
+          },
+          {
+            "VoiceCommandId": 10814,
+            "VoiceActionId": 1637,
+            "Command": "Cancel Navigation"
+          },
+          {
+            "VoiceCommandId": 10815,
+            "VoiceActionId": 1637,
+            "Command": "Exit Navigation"
+          },
+          {
+            "VoiceCommandId": 10816,
+            "VoiceActionId": 1637,
+            "Command": "Stop Navigation"
+          },
+          {
+            "VoiceCommandId": 10817,
+            "VoiceActionId": 1637,
+            "Command": "And Navigation"
+          },
+          {
+            "VoiceCommandId": 10818,
+            "VoiceActionId": 1637,
+            "Command": "Cancel Navigations"
+          },
+          {
+            "VoiceCommandId": 10819,
+            "VoiceActionId": 1637,
+            "Command": "Navigation Cancel"
+          },
+          {
+            "VoiceCommandId": 10820,
+            "VoiceActionId": 1637,
+            "Command": "Stop Navigation"
+          },
+          {
+            "VoiceCommandId": 10821,
+            "VoiceActionId": 1637,
+            "Command": "Reject Navigation"
+          }
+        ]
+      }
+    ],
+    "TimeStamp": "2023-10-12T15:37:12.337"
+  },
+  "ErrorMessages": null
+}

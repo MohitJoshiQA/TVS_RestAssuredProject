@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All_Test_Suite">
+    <listeners>
+        <listener class-name="configuration.Listeners"/>
+    </listeners>
+<!--    <test name="UAT_U546PrimaryUser">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="UAT_U546_VIN"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_U546_Primary" />-->
+<!--        <parameter name="model" value="U546" />-->
+<!--&lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--&lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--&lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="UAT_U546_HCC">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="UAT_U546_VIN"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_U546_Primary" />-->
+<!--        <parameter name="model" value="U546_HCC" />-->
+<!--        &lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--        &lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--        &lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="UAT_U546_PCC">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="UAT_U546_VIN"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_U546_Primary" />-->
+<!--        <parameter name="model" value="U546_PCC" />-->
+<!--        &lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--        &lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--        &lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="UAT_U577PrimaryUser">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="UAT_U577_VIN"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_U577_Primary" />-->
+<!--        <parameter name="model" value="U577" />-->
+<!--&lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--&lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--&lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="Onboard">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="Uat_Generic_Vin"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_GENERIC" />-->
+<!--        <parameter name="model" value="Onboard" />-->
+<!--        &lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--        &lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--        &lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+   <!-- <test name="UAT_generic">
+        <parameter name="instance" value="UAT_URL" />
+        <parameter name="RoleId" value="UAT_Service_role"></parameter>
+        <parameter name="Vin" value="Uat_Generic_Vin"></parameter>
+        <parameter name="UserId" value="UAT_appuserid"></parameter>
+        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>
+        <parameter name="Token" value="UAT_GENERIC" />
+        <parameter name="model" value="GENERIC" />
+        &lt;!&ndash;        <packages>&ndash;&gt;
+        &lt;!&ndash;            <package name="controllers" />&ndash;&gt;
+        &lt;!&ndash;        </packages>&ndash;&gt;
+        <classes>
+            <class name="controllers.TestCaseExecuter"></class>
+        </classes>
+    </test>-->
+
+    <test name="Excel API Tests">
+        <classes>
+            <class name="api.auth.AuthoFlowTestU745" />
+            <class name="api.auth.ExcelDrivenApiTest" />
+        </classes>
+    </test>
+
+<!--    <test name="OffBoard">-->
+<!--        <parameter name="instance" value="UAT_URL" />-->
+<!--        <parameter name="RoleId" value="UAT_Service_role"></parameter>-->
+<!--        <parameter name="Vin" value="Uat_Generic_Vin"></parameter>-->
+<!--        <parameter name="UserId" value="UAT_appuserid"></parameter>-->
+<!--        <parameter name="DeviceId" value="UAT_Device_Id"></parameter>-->
+<!--        <parameter name="Token" value="UAT_GENERIC" />-->
+<!--        <parameter name="model" value="OffBoard" />-->
+<!--        &lt;!&ndash;        <packages>&ndash;&gt;-->
+<!--        &lt;!&ndash;            <package name="controllers" />&ndash;&gt;-->
+<!--        &lt;!&ndash;        </packages>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="controllers.TestCaseExecuter"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+</suite>

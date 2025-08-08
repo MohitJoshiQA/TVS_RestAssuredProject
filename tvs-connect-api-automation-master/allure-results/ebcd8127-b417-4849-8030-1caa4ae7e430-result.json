@@ -1,0 +1,33 @@
+{
+  "uuid": "ebcd8127-b417-4849-8030-1caa4ae7e430",
+  "historyId": "5796da7bb4888584ac9afa475e1b160d",
+  "fullName": "simulation.U702_DEV.U702",
+  "labels": [
+    { "name": "package", "value": "simulation.U702_DEV" },
+    { "name": "testClass", "value": "simulation.U702_DEV" },
+    { "name": "testMethod", "value": "U702" },
+    { "name": "parentSuite", "value": "Default Suite" },
+    { "name": "suite", "value": "TVSM_Automation" },
+    { "name": "subSuite", "value": "simulation.U702_DEV" },
+    { "name": "host", "value": "tharanesh-ThinkPad-T490" },
+    { "name": "thread", "value": "51540@tharanesh-ThinkPad-T490.main(1)" },
+    { "name": "framework", "value": "testng" },
+    { "name": "language", "value": "java" }
+  ],
+  "links": [],
+  "name": "U702",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nCannot inject @Test annotated Method [U702] with [class java.lang.String].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection",
+    "trace": "org.testng.TestNGException: \nCannot inject @Test annotated Method [U702] with [class java.lang.String].\nFor more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection\n\tat org.testng.internal.Parameters.checkParameterTypes(Parameters.java:436)\n\tat org.testng.internal.Parameters.createParametersForMethod(Parameters.java:350)\n\tat org.testng.internal.Parameters.createParameters(Parameters.java:693)\n\tat org.testng.internal.Parameters.handleParameters(Parameters.java:879)\n\tat org.testng.internal.Parameters.handleParameters(Parameters.java:728)\n\tat org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)\n\tat org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)\n\tat org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:924)\n\tat org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)\n\tat org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)\n\tat org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1596)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:829)\n\tat org.testng.TestRunner.run(TestRunner.java:602)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:437)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:330)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1176)\n\tat org.testng.TestNG.runSuites(TestNG.java:1099)\n\tat org.testng.TestNG.run(TestNG.java:1067)\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1738047013236,
+  "stop": 1738047013239
+}
